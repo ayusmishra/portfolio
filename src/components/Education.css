@@ -1,0 +1,27 @@
+/* src/components/Education.css */
+.education {
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .education h2 {
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .education-item {
+    margin-bottom: 1rem;
+  }
+  
+  .education-item h3 {
+    margin: 0 0 0.5rem;
+    color: #333;
+  }
+  
+  .education-item p {
+    margin: 0.25rem 0;
+    font-size: 1.2rem;
+    color: #666;
+  }

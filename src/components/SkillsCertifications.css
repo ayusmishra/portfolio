@@ -1,0 +1,39 @@
+/* src/components/SkillsCertifications.css */
+.skills-certifications {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h2{
+  text-decoration: underline;
+}
+
+.skills, .certifications {
+  flex: 1;
+  padding: 1rem;
+}
+
+.skills h2, .certifications h2 {
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.skills ul, .certifications ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li, .certifications li {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.small-text{
+  font-size: 12px;
+  margin-top: -2px;
+  color: grey;
+}

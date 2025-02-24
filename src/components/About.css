@@ -1,0 +1,9 @@
+/* src/components/About.css */
+.about {
+    padding: 2rem;
+    text-align: center;
+  }
+  p{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
